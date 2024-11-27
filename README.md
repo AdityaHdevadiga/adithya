@@ -1,2 +1,2 @@
 # adithya
-start-up
+start-up.
